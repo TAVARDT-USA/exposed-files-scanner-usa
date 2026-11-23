@@ -88,7 +88,7 @@ def main():
         print(f" Remediation Actions:")
         print(f"   * Immediately delete exposed files and configure zero-trust web server blocking directives.")
     else:
-        print(f" Nenhuma exposicao publica detectada nas rotas monitoradas.")
+        print(f" No public exposure detected on monitored routes.")
     print(border)
 
 if __name__ == "__main__":

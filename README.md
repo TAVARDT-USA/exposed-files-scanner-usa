@@ -1,8 +1,8 @@
 # Exposed Files and Sensitive Credentials Scanner
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/exposed-files-scanner/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 CLI attack surface scanner for automated discovery of exposed environment configs, database dumps, git metadata, and credential leakage.
 

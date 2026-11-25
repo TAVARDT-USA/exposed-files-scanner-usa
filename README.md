@@ -1,12 +1,10 @@
 # Exposed Files and Sensitive Credentials Scanner
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/exposed-files-scanner/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 CLI attack surface scanner for automated discovery of exposed environment configs, database dumps, git metadata, and credential leakage.
-
-Developed and maintained by the offensive security and attack surface division of **TAVARDT United States**.
 
 ***
 
@@ -38,15 +36,6 @@ python scanner.py enterprise.com -json
 
 ***
 
-## Online Web Diagnostics
-
-For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
-
-* **Exposed Files and Secrets Scanner**
-* **TAVARDT United States Corporate Portal**
-
-***
-
 ## Enterprise Attack Surface Consulting
 
 For penetration testing, vulnerability remediation, and zero-trust perimeter defense in United States, contact **TAVARDT United States**.
@@ -62,7 +51,7 @@ For penetration testing, vulnerability remediation, and zero-trust perimeter def
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
